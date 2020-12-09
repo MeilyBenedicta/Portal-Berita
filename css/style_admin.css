@@ -1,0 +1,63 @@
+#logoweb{
+	background-color: #337ab7;
+}
+
+#index-judul{
+	color: #337ab7;
+}
+
+#index-singkat{
+	color:rgba(0,0,0,0.5);
+}
+
+#index-penulis{
+	color:rgba(0,0,255,0.5);
+}
+
+#tgl-komentar{
+	color:gray;
+}
+
+.navbar{
+	background: white;
+	border-bottom: 2px solid #337ab7;
+}
+
+.navbar a{
+	color: #337ab7;
+	}
+	
+.navbar a:hover{
+	color: black;
+}
+
+.kotak{
+	width:75%;
+	margin:30px;
+	padding:30px;
+	background-color:white;
+	border:2px solid #337ab7;
+	border-radius:25px;
+}
+
+.jdlatas{
+	background-color: #337ab7;
+	padding:10px;
+	color: white;
+}
+
+.garis { 
+	border: 1px solid #337ab7;
+}
+
+#footy{
+	display: block;
+	background-color: #337ab7;
+	padding:5px;
+	width:100%;
+	color: white;
+}
+
+#footy a{
+	color: white;
+}

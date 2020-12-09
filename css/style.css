@@ -1,0 +1,67 @@
+body{
+
+	background-color:url(..img/back.png);
+	background-size: cover;
+
+	}
+
+#lataratas{
+	background-color: black;
+}
+
+#index-judul{
+	color: white;
+}
+
+#index-singkat{
+	color:white;
+}
+
+#index-penulis{
+	color:#e4ff00;
+}
+
+#tgl-komentar{
+	color:#c7b299;
+}
+
+.navbar{
+	background: orange;
+	border-bottom: 10px solid #8dc63f;
+}
+
+li a{
+	color: red;
+	}
+	
+li a:hover{
+	color: black;
+}
+
+.container{
+	background-color:black;
+	margin:30px;
+	padding:30px;
+}
+
+.jdlatas{
+	background-color: #4682B4;
+	padding:10px;
+	color: white;
+}
+
+.garis { 
+	border: 1px solid #8dc63f;
+}
+
+#footy{
+	display: block;
+	background-color: black;
+	padding:10px;
+	width:100%;
+	color: white;
+}
+
+#footy a{
+	color: white;
+}
